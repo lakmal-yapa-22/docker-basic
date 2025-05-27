@@ -237,8 +237,5 @@ docker pull username/my-app:v1.0
 docker run -d -p 8080:8080 username/my-app:production
 ```
 
----
 
-## 🤝 Contributing
 
-Feel free to contribute to this guide by submitting pull requests or opening issues for improvements.
