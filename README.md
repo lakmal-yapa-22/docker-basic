@@ -7,15 +7,6 @@
 
 A comprehensive guide covering port management and Docker containerization for software development.
 
-## 📋 Table of Contents
-
-- [Port Management](#-port-management)
-- [Docker Introduction](#-docker-introduction)
-- [Docker Components](#-docker-components)
-- [Docker Commands](#-docker-commands)
-- [Docker Workflow](#-docker-workflow)
-
-## 🔌 Port Management
 
 ### How to Stop Applications Running on Specific Ports
 
